@@ -1,0 +1,11 @@
+.contenedorCartWidget{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    margin: 10px;
+}
+.img__carrito{
+    width: 1.5rem;
+    height: 1.5rem;
+}
